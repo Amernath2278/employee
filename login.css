@@ -1,0 +1,33 @@
+
+.head{
+    padding: 15px;
+    background-color: rgb(230, 229, 229);
+    display: flex;
+}
+
+.main{
+
+   margin-left: 300px;
+   margin-top: 100px;
+   padding: 20px;
+}
+
+#sub1{
+   
+    background-color: #fff;
+    box-shadow: 80px 20px 10px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 130px;
+    padding: 30px;
+    
+}
+.input{
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+
+
+

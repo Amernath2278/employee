@@ -1,0 +1,40 @@
+.details{
+    padding: 15px;
+width: 430px;
+}
+
+#button{
+    width: 400px;
+    margin-left: 15px;
+}
+
+.main{
+    background-color: #fff;
+    box-shadow: 80px 20px 10px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 120px;
+    padding: 30px;
+}
+
+.main1{
+    display: flex;
+}
+
+.sub1{
+   padding: 10px;
+}
+
+.sub1 button{
+    width: 200px;
+}
+
+.sub1 input{
+    width: 350px;
+}
+
+.sub{
+    margin-top: 200px;
+    margin-left: 100px;
+}
